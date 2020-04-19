@@ -1,0 +1,10 @@
+C:\Users\chris\Documents\UNIVERSITY OF BRIDGEPORT\2020SP Semester\CPEG 585 - Computer Vision\LDA\FaceRecognitionLDA\FaceRecognitionLDA\obj\Debug\FaceRecognitionLDA.csprojAssemblyReference.cache
+C:\Users\chris\Documents\UNIVERSITY OF BRIDGEPORT\2020SP Semester\CPEG 585 - Computer Vision\LDA\FaceRecognitionLDA\FaceRecognitionLDA\obj\Debug\FaceRecognitionLDA.Form1.resources
+C:\Users\chris\Documents\UNIVERSITY OF BRIDGEPORT\2020SP Semester\CPEG 585 - Computer Vision\LDA\FaceRecognitionLDA\FaceRecognitionLDA\obj\Debug\FaceRecognitionLDA.Properties.Resources.resources
+C:\Users\chris\Documents\UNIVERSITY OF BRIDGEPORT\2020SP Semester\CPEG 585 - Computer Vision\LDA\FaceRecognitionLDA\FaceRecognitionLDA\obj\Debug\FaceRecognitionLDA.csproj.GenerateResource.cache
+C:\Users\chris\Documents\UNIVERSITY OF BRIDGEPORT\2020SP Semester\CPEG 585 - Computer Vision\LDA\FaceRecognitionLDA\FaceRecognitionLDA\obj\Debug\FaceRecognitionLDA.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\UNIVERSITY OF BRIDGEPORT\2020SP Semester\CPEG 585 - Computer Vision\LDA\FaceRecognitionLDA\FaceRecognitionLDA\bin\Debug\FaceRecognitionLDA.exe.config
+C:\Users\chris\Documents\UNIVERSITY OF BRIDGEPORT\2020SP Semester\CPEG 585 - Computer Vision\LDA\FaceRecognitionLDA\FaceRecognitionLDA\bin\Debug\FaceRecognitionLDA.exe
+C:\Users\chris\Documents\UNIVERSITY OF BRIDGEPORT\2020SP Semester\CPEG 585 - Computer Vision\LDA\FaceRecognitionLDA\FaceRecognitionLDA\bin\Debug\FaceRecognitionLDA.pdb
+C:\Users\chris\Documents\UNIVERSITY OF BRIDGEPORT\2020SP Semester\CPEG 585 - Computer Vision\LDA\FaceRecognitionLDA\FaceRecognitionLDA\obj\Debug\FaceRecognitionLDA.exe
+C:\Users\chris\Documents\UNIVERSITY OF BRIDGEPORT\2020SP Semester\CPEG 585 - Computer Vision\LDA\FaceRecognitionLDA\FaceRecognitionLDA\obj\Debug\FaceRecognitionLDA.pdb
